@@ -1,5 +1,5 @@
 ﻿/* 2do
- * CLASE CONSTRUCTOR
+ * CLASE CONSTRUCTOR (INTERFAZ)
  */
 namespace BuilderTestExample
 {   /*

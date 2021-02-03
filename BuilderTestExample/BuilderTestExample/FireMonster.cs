@@ -1,7 +1,7 @@
 ﻿namespace BuilderTestExample
 {
     //5to
-    //CLASES HIJAS/CONSTRUCTORES ESPECÍFICOS
+    //CLASES HIJAS/OBJETOS CONSTRUCTORES ESPECÍFICOS
 
     //Creamos la relación Herencia FireMonster : MonsterGenerate
     class FireMonster : MonsterGenerate

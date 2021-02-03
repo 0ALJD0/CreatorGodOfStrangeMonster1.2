@@ -3,17 +3,17 @@
   <Comment CommentText="Cosntructores Específicos">
     <Position X="8.781" Y="4.427" Height="0.312" Width="1.7" />
   </Comment>
-  <Comment CommentText="Clase Director/Interfaz">
-    <Position X="11.604" Y="1.354" Height="0.313" Width="1.533" />
+  <Comment CommentText="Clase Directora">
+    <Position X="11.604" Y="1.354" Height="0.313" Width="1.108" />
   </Comment>
-  <Comment CommentText="Constructor">
-    <Position X="6.729" Y="0.635" Height="0.417" Width="1.179" />
+  <Comment CommentText="Constructor/Interfaz">
+    <Position X="6.729" Y="0.635" Height="0.417" Width="1.406" />
   </Comment>
   <Comment CommentText="Cliente">
     <Position X="4.708" Y="0.521" Height="0.312" Width="0.7" />
   </Comment>
   <Comment CommentText="Producto Entregable de los Constructores Específicos">
-    <Position X="4.865" Y="8.531" Height="0.635" Width="1.565" />
+    <Position X="13.01" Y="4.518" Height="0.635" Width="1.565" />
   </Comment>
   <Class Name="BuilderTestExample.Summoner">
     <Position X="9.75" Y="1.25" Width="1.5" />
@@ -44,7 +44,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="BuilderTestExample.Monster">
-    <Position X="6.75" Y="8.5" Width="1.5" />
+    <Position X="13" Y="5.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAACABAAAAAAAAACAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Monster.cs</FileName>

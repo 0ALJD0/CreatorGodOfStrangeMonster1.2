@@ -1,5 +1,5 @@
 ﻿/* 1ero
- * CLASE DIRECTOR (INTERFAZ)
+ * CLASE DIRECTORA
  *  Conocemos que atributos van hacer elegidos por el usuario desde la interfaz,
  *  ahora podemos crear nuestra clase Summoner(Invocador) que será nuestro director,
  *  el cuál le entregará a la clase abstracta MonsterGenerate los atributos.

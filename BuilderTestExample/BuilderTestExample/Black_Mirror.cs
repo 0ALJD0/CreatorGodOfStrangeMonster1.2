@@ -204,7 +204,7 @@ namespace BuilderTestExample
         {
             string sex;
             Console.WriteLine("Finaly, choose your sex, yes... your sex ");
-            Console.WriteLine("Male == M or Fermale == F");
+            Console.WriteLine("Male == M or Female == F");
             sex = Console.ReadLine();
             sex = sex.ToUpper();
 
@@ -214,7 +214,7 @@ namespace BuilderTestExample
                     sex = "Male";
                     break;
                 case "F":
-                    sex = "Fermale";
+                    sex = "Female";
                     break;
             }
             Console.WriteLine("\n\n");
